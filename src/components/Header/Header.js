@@ -11,7 +11,7 @@ function Header() {
           </NavLink>
         </li>
         <li>
-          <NavLink className={css.NavLink} to="/movies">
+          <NavLink className={css.NavLink}  to="/movies">
             Movies
           </NavLink>
         </li>
