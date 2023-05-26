@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-05-movies/static/css/main.a25b80dc.css",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.c0265696.css",
     "main.js": "/goit-react-hw-05-movies/static/js/main.07b1007e.js",
     "static/css/206.d8204d06.chunk.css": "/goit-react-hw-05-movies/static/css/206.d8204d06.chunk.css",
     "static/js/206.36dfa798.chunk.js": "/goit-react-hw-05-movies/static/js/206.36dfa798.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/gangster-actor.png": "/goit-react-hw-05-movies/static/media/gangster-actor.dd03aff7086c12e17cd6.png",
     "static/media/poster.jpg": "/goit-react-hw-05-movies/static/media/poster.5532928420febb910f68.jpg",
     "index.html": "/goit-react-hw-05-movies/index.html",
-    "main.a25b80dc.css.map": "/goit-react-hw-05-movies/static/css/main.a25b80dc.css.map",
+    "main.c0265696.css.map": "/goit-react-hw-05-movies/static/css/main.c0265696.css.map",
     "main.07b1007e.js.map": "/goit-react-hw-05-movies/static/js/main.07b1007e.js.map",
     "206.d8204d06.chunk.css.map": "/goit-react-hw-05-movies/static/css/206.d8204d06.chunk.css.map",
     "206.36dfa798.chunk.js.map": "/goit-react-hw-05-movies/static/js/206.36dfa798.chunk.js.map",
@@ -29,7 +29,7 @@
     "30.f301a298.chunk.js.map": "/goit-react-hw-05-movies/static/js/30.f301a298.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a25b80dc.css",
+    "static/css/main.c0265696.css",
     "static/js/main.07b1007e.js"
   ]
 }
