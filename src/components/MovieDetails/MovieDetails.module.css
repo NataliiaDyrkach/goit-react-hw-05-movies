@@ -1,0 +1,126 @@
+.Contaier{
+    margin-top: 120px;
+}
+
+.Button{
+    display: flex;
+align-items: center;
+justify-content: center;
+
+width: 90px;
+height: 40px;
+margin-bottom: 20px;
+
+font-size: 15px;
+font-family: inherit;
+
+background-color: #050b5c;
+color: #fafafa;
+border: none;
+
+cursor: pointer;
+transition: background-color 250ms linear,
+color 250ms linear;
+
+&:hover {
+    background-color: #8e0e00;
+    color: #fafafa;
+}
+}
+
+.Label{
+    margin-left: 10px;
+}
+
+
+.MainWrapper{
+    display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 1200px;
+        margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.Poster{
+    width: 300px;
+    margin-right: 40px;
+}
+
+
+.TitleWrapper{
+    margin-bottom: 30px;
+}
+
+.Title{
+    font-size: 30px;
+    color: #050b5c;
+margin-bottom: 10px;
+}
+
+.ReleaseDate{
+    font-weight: 700;
+font-size: 15px;
+}
+
+.GenresList{
+    display: flex;
+    margin-bottom: 50px;
+    padding-left: 0;
+}
+
+.GenresItem{
+font-size: 15px;
+margin-right: 15px;
+list-style-type: none;
+
+:last-child {
+    margin-right: 0;
+}
+}
+
+.Description{
+    line-height: 2;
+font-size: 15px;
+margin-bottom: 50px;
+}
+
+.VoteAverage{
+    font-size: 18px;
+margin-bottom: 10px;
+}
+
+.VoteCount{
+    font-size: 18px;
+}
+
+.Value{
+    font-weight: 700;
+}
+
+
+.AdditionalTitle{
+   text-transform: uppercase;
+background-color: #050b5c;
+color: #fafafa;
+padding: 15px;
+margin-bottom: 30px; 
+}
+
+.NavigationsItem{
+    margin-bottom: 15px;
+    
+    &:last-child {
+    margin-bottom: 0;}
+}
+
+.Link{
+  font-size: 18px;
+color: #161616;
+
+&.active {
+    color: #8e0e00;
+}
+  
+}
+

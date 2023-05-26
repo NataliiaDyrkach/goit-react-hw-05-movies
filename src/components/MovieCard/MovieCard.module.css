@@ -1,0 +1,42 @@
+.Item {
+  padding: 10px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+  transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12);
+
+  &:hover {
+    transform: scale(1.03);
+    cursor: zoom-in;
+  }
+}
+
+.Title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #585858;
+}
+
+.Image {
+  width: 300px;
+  height: 440px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+.Wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.Text {
+  font-size: 12px;
+  font-weight: 700;
+  color: #585858;
+}

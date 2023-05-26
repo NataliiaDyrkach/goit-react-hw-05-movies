@@ -1,0 +1,27 @@
+.List{
+display: flex;
+flex-wrap: wrap;
+gap: 15px;
+}
+
+.PhotoWrapper{
+    display: flex;
+        align-items: center;
+        height: 375px;
+        margin-bottom: 15px;
+}
+
+.Item{
+    list-style-type: none;
+}
+
+.Photo{
+    width: 250px;
+}
+
+.Name{
+font-size: 20px;
+font-weight: 700;
+color: #050b5c;
+}
+
